@@ -1,4 +1,4 @@
-const CACHE = 'family-lines-v4-1-2';
+const CACHE = 'family-lines-v5-20260730';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {
   self.skipWaiting();
